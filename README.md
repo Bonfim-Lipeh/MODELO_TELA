@@ -43,3 +43,7 @@ Java: Linguagem de programação utilizada para desenvolver o projeto.
 Versão 1.0: Versão inicial do projeto, desenvolvida em [data].
 Autores
 Felipe Bonfim: Desenvolvimento inicial e implementação da lógica de conexão com o banco de dados.
+
+![jframeetapa1](https://github.com/user-attachments/assets/4e6e08b1-864b-4393-8519-ada0d55f9111)
+
+
